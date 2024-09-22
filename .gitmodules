@@ -1,0 +1,6 @@
+[submodule "RNCourse"]
+	path = RNCourse
+	url = https://github.com/sri1796/ReactNative/tree/RNCourse
+[submodule "minigame"]
+	path = minigame
+	url = https://github.com/sri1796/ReactNative/tree/minigame
